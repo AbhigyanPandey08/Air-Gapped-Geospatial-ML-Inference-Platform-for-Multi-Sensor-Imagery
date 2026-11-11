@@ -1,5 +1,7 @@
 # Air-Gapped-Geospatial-ML-Inference-Platform-for-Multi-Sensor-Imagery
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbhigyanPandey08/Air-Gapped-Geospatial-ML-Inference-Platform-for-Multi-Sensor-Imagery/blob/main/notebooks/GeoVision_DIP_Complete_Portable_Superset.ipynb)
+
 An academic Digital Image Processing project exploring portable image enhancement, feature representation, unsupervised clustering, and geospatial pattern analysis.
 
 This portable image-processing framework that applies Digital Image Processing (DIP) techniques to ordinary digital images and multispectral geospatial imagery. It combines image enhancement, spatial filtering, spectral feature extraction, unsupervised clustering, and spatial pattern analysis in a reproducible Python workflow.
